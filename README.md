@@ -37,6 +37,10 @@ Alur Kerja:
   Saat pengguna memilih untuk menghapus data pasien, TampilPasien akan meminta ProsesPasien untuk menghapus data dengan ID yang sesuai.
   Pesan sukses atau gagal akan ditampilkan setelah operasi selesai.
 
+
+https://github.com/rdmrvl/LP11DPBO2024C2/assets/64513644/072e7ad9-223d-4d01-a489-1f29b815c2aa
+
+
 Homepage
 ![image](https://github.com/rdmrvl/LP11DPBO2024C2/assets/64513644/053cd199-5f1d-4e5e-900d-5be47a84c0f5)
 
